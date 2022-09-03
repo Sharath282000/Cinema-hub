@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Create an .env file where you should add your TMDB api key
 
+##Output
+
+![cinema hub](https://user-images.githubusercontent.com/61103901/188268527-603691bb-602f-4520-b7c6-25f9a539c4ee.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
