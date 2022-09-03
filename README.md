@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Create an .env file where you should add your TMDB api key
+
 ## Available Scripts
 
 In the project directory, you can run:
